@@ -1,13 +1,12 @@
 ---
 layout: post
-title:  "awkward silence"
+title:  "awkward nerd"
 date:   2020-08-06 17:12:44 +0200
 categories: jekyll update
 ---
 
 
-
-Skip the small talk cut right to the chase
+Cheat sheet for socially awkward nerds
 
 Which question can you ask to find out the most about one person? 5 min read — Personal growth ## Use these questions to kickstart inspiring, connecting, and entertaining conversations with new people and old friends. I have had complete strangers open up and connect on a deeper and more meaningful level than I ever thought possible. With reunited old friends these questions led to roaring laughter and bitter tears. It's not everyones cup of tea to connect meaningfully—be mindful and respect boundaries.
 
