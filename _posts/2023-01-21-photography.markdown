@@ -17,47 +17,66 @@ intensity, timing, and when to stop
  “…looking at, studying, and absorbing good photography serves the same purpose for a beginning photographer. That is because learning the components of a good image – composition, lighting, gesture – and seeing those elements used differently over and over by different masters, makes it easier for a person to achieve the same end on his or her own over time. And there is simply is no alternative to this, no shortcut.”
  Frank Van Riper
 
+<br>
+ <div style="display:flex; justify-content:space-around; align-items:center;">
+   <img src="/assets/images/photography/Diving1.jpg" alt="Critter diving in Indonesia" style="width:48%; height:auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+   <img src="/assets/images/photography/Diving2.jpg" alt="Critter diving in Indonesia" style="width:48%; height:auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+ </div>
+Diving 2011 (Indonesia)
+<br>
 
+<div style="display:flex; justify-content:space-around; align-items:center;">
+  <img src="/assets/images/photography/Sugar1.jpg" alt="Havana in Cuba" style="width:48%; height:auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="/assets/images/photography/Sugar2.jpg" alt="Sugar cane factory in Havana" style="width:48%; height:auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+Havana 2017 (Cuba)
+<br>
 
+<div style="display:flex; justify-content:space-around; align-items:center;">
+  <img src="/assets/images/photography/NYC1.jpg" alt="NYC" style="width:48%; height:auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="/assets/images/photography/NYC2.jpg" alt="New York City" style="width:48%; height:auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+New York City 2017 (USA)
+<br>
 
-New York city 2017 (USA)
+<div style="display:flex; justify-content:space-around; align-items:center;">
+  <img src="/assets/images/photography/antelope1.jpg" alt="Antelope canyon" style="width:48%; height:auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="/assets/images/photography/antelope2.jpg" alt="Antelope canyon" style="width:48%; height:auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+Antelope Canyon 2018 (USA)
+<br>
 
+<div style="display:flex; justify-content:space-around; align-items:center;">
+  <img src="/assets/images/photography/Mudburn1.jpg" alt="Burning Man" style="width:48%; height:auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="/assets/images/photography/Mudburn2.jpg" alt="Burning Man" style="width:48%; height:auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+The MudBurn 2023 (USA)
+<br>
 
+ <div style="display:flex; justify-content:space-around; align-items:center;">
+   <img src="/assets/images/photography/SF1.jpg" alt="San Francisco" style="width:48%; height:auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+   <img src="/assets/images/photography/SF2.jpg" alt="San Francisco" style="width:48%; height:auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+ </div>
+San Francisco 2024 (USA)
+<br>
 
-sugar cane factory 2016 (Cuba)
+<div style="display:flex; justify-content:space-around; align-items:center;">
+  <img src="/assets/images/photography/Ankor1.jpg" alt="the ancient ruins of ankorwat" style="width:48%; height:auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="/assets/images/photography/Ankor2.jpg" alt="the ancient ruins of ankorwat" style="width:48%; height:auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+Ankorwat 2024 (Cambodia)
+<br>
 
+<div style="display:flex; justify-content:space-around; align-items:center;">
+  <img src="/assets/images/photography/HK1.jpg" alt="Hong Kong from the bay" style="width:48%; height:auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="/assets/images/photography/HK2.jpg" alt="Hong Kong City" style="width:48%; height:auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+Hong Kong 2025 (HK)
+<br>
 
-
-Antelope canyon 2018 (USA)
-
-
-
-Wild Willies 2019 (USA)
-
-
-
-The city that never sleeps 2017 (USA)
-
-
-
-My friend the gecko 2013 (Thailand)
-
-
-
-Havana, Cuba 2019 (USA)
-
-
-
-White spray 2008 (Greece)
-
-
-
-Black Macaque 2010 (Indonesia)
-
-
-
-Niagra falls 2017 (Canada)
-
-
-
-Wild Arizona 2019 (USA)
+<div style="display:flex; justify-content:space-around; align-items:center;">
+  <img src="/assets/images/photography/Japan1.jpg" alt="Kyoto Japan" style="width:48%; height:auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  <img src="/assets/images/photography/Japan2.jpg" alt="Tori gate Japan" style="width:48%; height:auto; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+Kyoto 2025 (Japan)
+<br>
