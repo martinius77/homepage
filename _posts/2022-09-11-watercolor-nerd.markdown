@@ -29,7 +29,7 @@ A place I considered my kingdom, a sleepy field and a silent forest separated by
 <br>
 
 
-<img src="{{ site.baseurl }}/assets/images/paintings/Vienna.jpg" alt="Circus in Barcelona" style="width: 80%; display: block; margin: 0 auto; border-radius: 8px;">
+<img src="{{ site.baseurl }}/assets/images/paintings/vienna.jpg" alt="Circus in Barcelona" style="width: 80%; display: block; margin: 0 auto; border-radius: 8px;">
 I still remember very well when I first arrived in this beautiful city. Actually, it was a very dirty and cold city that I arrived in. Coming from the countryside, the move into the capital was a shock, and a shared room, lack of comfort, and social structures did not help. BOKU University became my new home; the gardens and dark corridors became my living room. This view is from the city vineyards down by the Danube river on a morning run.  
 <br>
 
@@ -42,7 +42,7 @@ One morning, on my way to an exam, I witnessed the early morning sun break throu
 Berkeley Marina was my preferred running route in 2019 when I moved to the Bay Area to join a biomaterials startup and ended up happily on the other side of the bay, living in a small warehouse a colleague from work had previously used to grow weed in. My first six months in the Bay were filled with all the exciting 9-9-6 things of a young startup life such as working and sleeping.  
 <br>
 
-<img src="{{ site.baseurl }}/assets/images/paintings/NYC.jpg" alt="Broadway in NYC" style="width: 80%; display: block; margin: 0 auto; border-radius: 8px;">
+<img src="{{ site.baseurl }}/assets/images/paintings/nyc.jpg" alt="Broadway in NYC" style="width: 80%; display: block; margin: 0 auto; border-radius: 8px;">
 Standing on Broadway felt like being in the center of this planet's pulsing heart. Sleeping at a Greyhound station, I was cheated out of some money by the first person I asked for directions, but helped by the second, and I realized this place was different. Walking down Broadway became a source of unprecedented pleasure whenever I had time to spare. The warm tones used for the background architecture could indicate a nostalgic streak for long summers and times well-lived.  
 <br>
 
