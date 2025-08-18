@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "grammar nerd!"
+title:  "grammar nerd"
 date:   2021-08-06 17:12:44 +0200
 categories: jekyll update
 ---
